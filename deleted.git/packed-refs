@@ -1,0 +1,4 @@
+# pack-refs with: peeled fully-peeled 
+ff1b8de7e1bb225814fb789e4d278e2ac89c574e refs/remotes/origin/CreateNewPageWithOEmbed
+dd8de17c3012c4f79aa31d59103280f2fde81284 refs/remotes/origin/master
+ec1a70ca2c98096cea7f779d736a278a37b44788 refs/remotes/origin/wangwe

@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<customUI xmlns="http://schemas.microsoft.com/office/2006/01/customui" loadImage="GetImage">
+    <ribbon>
+        <tabs>
+          <tab idMso="TabHome">
+                <group id="groupVanillaAddIn" label="熊のノート">
+                    <button id="buttonVanillaAddIn" label="熊のノート" size="large" screentip="熊のノート" onAction="VanillaAddInButtonClicked" image="Logo.png"/>
+                </group>
+            
+          </tab>
+            <tab id="tabVanillaAddIn2" label="熊のノート">
+                <group id="groupVanillaAddIn2" label="熊のノート">
+					<button id="buttonNewSetu2p" label="熊のノート" size="large" screentip="熊のノート" onAction="VanillaAddInButtonClicked" image="Logo.png"/>
+				</group>
+            </tab>
+        </tabs>
+    </ribbon>
+</customUI>
+
