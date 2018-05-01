@@ -1,0 +1,12 @@
+D:\yaoyuan\D.Development\O.Onenote\V.VanillaAddIn\VanillaAddIn\bin\x86\Debug\MyApplication.VanillaAddIn.dll
+D:\yaoyuan\D.Development\O.Onenote\V.VanillaAddIn\VanillaAddIn\bin\x86\Debug\MyApplication.VanillaAddIn.pdb
+D:\yaoyuan\D.Development\O.Onenote\V.VanillaAddIn\VanillaAddIn\obj\x86\Debug\VanillaAddIn.csprojResolveAssemblyReference.cache
+D:\yaoyuan\D.Development\O.Onenote\V.VanillaAddIn\VanillaAddIn\obj\x86\Debug\Interop.Microsoft.Office.Core.dll
+D:\yaoyuan\D.Development\O.Onenote\V.VanillaAddIn\VanillaAddIn\obj\x86\Debug\Interop.Microsoft.Office.Interop.OneNote.dll
+D:\yaoyuan\D.Development\O.Onenote\V.VanillaAddIn\VanillaAddIn\obj\x86\Debug\VanillaAddIn.csproj.ResolveComReference.cache
+D:\yaoyuan\D.Development\O.Onenote\V.VanillaAddIn\VanillaAddIn\obj\x86\Debug\MyApplication.VanillaAddIn.MainForm.resources
+D:\yaoyuan\D.Development\O.Onenote\V.VanillaAddIn\VanillaAddIn\obj\x86\Debug\MyApplication.VanillaAddIn.Properties.Resources.resources
+D:\yaoyuan\D.Development\O.Onenote\V.VanillaAddIn\VanillaAddIn\obj\x86\Debug\VanillaAddIn.csproj.GenerateResource.Cache
+D:\yaoyuan\D.Development\O.Onenote\V.VanillaAddIn\VanillaAddIn\obj\x86\Debug\VanillaAddIn.csproj.CoreCompileInputs.cache
+D:\yaoyuan\D.Development\O.Onenote\V.VanillaAddIn\VanillaAddIn\obj\x86\Debug\MyApplication.VanillaAddIn.dll
+D:\yaoyuan\D.Development\O.Onenote\V.VanillaAddIn\VanillaAddIn\obj\x86\Debug\MyApplication.VanillaAddIn.pdb
